@@ -1,6 +1,6 @@
 {
   "name": "postcss-arrange",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "arrange for css",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "url": "https://github.com/nfjBill/postcss-arrange/issues"
   },
   "homepage": "https://github.com/nfjBill/postcss-arrange#readme",
-  "devDependencies": {
+  "dependencies": {
     "autoprefixer": "^6.6.0",
     "gulp-util": "^3.0.8",
     "lodash": "^4.17.3",
