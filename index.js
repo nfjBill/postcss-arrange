@@ -109,7 +109,7 @@ function replace(content, conf) {
     //选择器去重复
     require('postcss-unique-selectors'),
     //优化zindex输出
-    require('postcss-zindex'),
+    // require('postcss-zindex'),
     //优化css排列顺序
     require("postcss-sorting")
   ];
